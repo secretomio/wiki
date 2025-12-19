@@ -1,11 +1,25 @@
-```
-
 {{subst:AfC submission/draftnew}}{{subst:AfC submission/coi|Secretomio}}
 <!-- Important, do not remove anything above this line before article has been created. -->
 
-== Secreto Mio ==
+{{Infobox website
+| name         = Secreto Mio
+| logo         = [[File:3000px-secretomio-logo.svg.png|200px]] <!-- or [[File:3000px-secretomio-logo.svg|200px]] if SVG is available -->
+| type         = Private
+| type_of_site = Pornographic video sharing
+| available_in = Čeština, 简体中文, English, Español, Deutsch, Filipino, Français, हिन्दी, 日本語, Polski, Português, Русский
+| headquarters = [[Medellín]], Colombia
+| country_of_origin = [[Colombia]]
+| area_served  = Worldwide
+| industry     = [[Online video platform]]<br />[[Website monetization#Paid subscriptions|Paid subscription]]<br />[[Creator economy]]<br />[[Sex industry|Pornography]]
+| services     = [[Pornography]]
+| url          = {{URL|secretomio.com}}
+| advertising  = Yes
+| registration = Optional
+| launched     = {{start date and age|2022|06}}<br />[[Medellín]], Colombia
+| current_status = Online
+}}
 
-'''Secreto Mio''' is a Colombian adult content website that hosts subscription-based erotic videos. Founded in '''June 2022''', the project originally released videos on platforms like Pornhub and XVideos before launching its own standalone platform, '''secretomio.com''', on '''June 25, 2025'''. Secreto Mio emphasizes Latina performers and in-house video production.
+'''Secreto Mio''' is a Colombian adult content website that hosts subscription-based erotic videos. Founded in June 2022, the project originally released videos on platforms like Pornhub and XVideos before launching its own standalone platform, '''secretomio.com''', on June 25, 2025. Secreto Mio emphasizes Latina performers and in-house video production.
 
 == History ==
 
@@ -19,12 +33,6 @@ Secreto Mio produces original adult video content featuring independent Latina m
 
 The site also accepts tips and custom content requests through a user contact form.
 
-== Technical Infrastructure ==
-
-Secreto Mio operates a responsive web interface, with no standalone app. Video content is streamed via the '''bunny.net''' content delivery network. Payments are handled through '''NowPayments''' using cryptocurrency to support user privacy.
-
-Users can register for accounts, manage preferences, and view subscription history through a member dashboard.
-
 == Legal Compliance ==
 
 Secreto Mio states compliance with U.S. 18 U.S.C. § 2257 recordkeeping requirements. All performers are age-verified and documentation is maintained internally.
@@ -34,10 +42,6 @@ Resources and legal policies are available on the official website:
 * [https://secretomio.com/parental-control Parental Control]
 * [https://secretomio.com/privacy-policy Privacy Policy]
 * [https://secretomio.com/faq FAQ]
-
-== Audience and Traffic ==
-
-As of mid-2025, Secreto Mio reports receiving between 50,000 and 100,000 monthly visits. The audience includes viewers from a variety of countries, with a notable share from Brazil, despite the site not being localized for Portuguese-speaking users.
 
 == Previous Platforms ==
 
@@ -50,5 +54,3 @@ Prior to launching its own site, Secreto Mio accumulated viewership across major
 
 == References ==
 <references />
-
-```
